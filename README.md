@@ -4,6 +4,14 @@
 
 AI Object Explainer is a real-time computer vision application that detects everyday objects using YOLOv8 and generates AI-powered descriptions using Google's Gemini API. The application captures an image from the webcam, identifies objects, and explains their purpose, common uses, and interesting facts through an interactive web interface.
 
+<img width="932" height="947" alt="Screenshot 2026-06-27 170318" src="https://github.com/user-attachments/assets/66c3c080-f203-49f1-bf2f-3a7149a27c60" />
+<img width="936" height="768" alt="Screenshot 2026-06-27 170449" src="https://github.com/user-attachments/assets/4b810428-28f2-4f0d-8335-de6c21f4089d" />
+<img width="945" height="847" alt="Screenshot 2026-06-27 170204" src="https://github.com/user-attachments/assets/20daf005-2a6a-48b1-8f28-f01c649eee52" />
+<img width="930" height="797" alt="Screenshot 2026-06-27 170249" src="https://github.com/user-attachments/assets/c096463a-df7a-42c4-a340-11db941b843b" />
+
+
+
+
 ## Features
 
 * Real-time webcam integration
